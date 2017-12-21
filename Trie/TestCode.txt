@@ -1,0 +1,35 @@
+				//
+				//Find prefix
+				//If prefix is null, check the next node in the string using dummy pointer
+//				TrieNode dummy = ptr;
+//				TrieNode before = null;
+//				//As long as you don't get to the end of the list
+//				while(dummy != null) {
+//					before = dummy;
+//					if(dummy != dummy.firstChild) {
+//						prefix = getPrefix(allWords[i-1],allWords[dummy.substr.wordIndex]); // Gets prefix of input and dummy word
+//						
+//						// if a prefix exists do something
+//						if(prefix != null) {
+//							//create a node
+//							System.out.println("+++++++++++++++++++++++");
+//						}
+//						else {
+//							dummy = dummy.firstChild;
+//						}						
+//					}
+//					else {
+//						prefix = getPrefix(allWords[i-1],allWords[dummy.substr.wordIndex]);
+//						
+//						//if prefix equals
+//						if(prefix != null) {
+//							
+//						}
+//						else {
+//							//Go to the next item in the tree
+//							dummy = dummy.sibling;
+//						}
+//						
+//					}
+//					
+//				}

@@ -1,0 +1,57 @@
+0 sam
+  | -- jane
+
+1 jane
+  | -- kaitlin
+  | -- bob
+  | -- sam
+
+2 michele
+  | -- tom
+  | -- rachel
+
+3 sergei
+  | -- aparna
+
+4 ricardo
+  | -- nick
+  | -- aparna
+
+5 kaitlin
+  | -- nick
+  | -- jane
+
+6 samir
+  | -- aparna
+  | -- bob
+
+7 aparna
+  | -- ricardo
+  | -- samir
+  | -- sergei
+
+8 ming
+  | -- nick
+
+9 nick
+  | -- heather
+  | -- ming
+  | -- ricardo
+  | -- kaitlin
+
+10 bob
+  | -- samir
+  | -- jane
+
+11 heather
+  | -- nick
+
+12 rachel
+  | -- michele
+
+13 rich
+  | -- tom
+
+14 tom
+  | -- rich
+  | -- michele
